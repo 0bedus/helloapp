@@ -9,3 +9,5 @@ static void GreetBlack()
 {
     Console.WriteLine("hello black");
 }
+
+GreetWhite();
